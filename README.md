@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm XAVYERCYBER
 
-<!--
-**xavyercyber/xavyercyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Blue Team | Network Security | Incident Response | Cybersecurity Student
 
-Here are some ideas to get you started:
+I am a cybersecurity student focused on developing practical defensive security skills through hands-on labs, traffic analysis, threat hunting, incident response, and security documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Current Focus
+
+- Blue Team Operations
+- Threat Hunting
+- Network Traffic Analysis
+- Incident Response
+- Windows Event Analysis
+- OSINT
+- Security Documentation
+
+---
+
+## 🛠️ Technologies & Tools
+
+- Wireshark
+- Nmap
+- Kali Linux
+- PowerShell
+- Event Viewer
+- GitHub
+- Shodan
+
+---
+
+## 📂 Featured Repositories
+
+### 📘 Cybersecurity Learning
+
+Personal learning repository containing notes, labs, exercises, and practical cybersecurity concepts.
+
+### 🛡️ Cybersecurity Portfolio
+
+Professional portfolio documenting security investigations, traffic analysis, threat hunting reports, and incident response projects.
+
+---
+
+## 📈 Current Goal
+
+Continuously improve my defensive cybersecurity skills by building practical projects and documenting every stage of my learning journey.
+
+---
+
+## 📫 Contact
+
+GitHub: **github.com/xavyercyber**
